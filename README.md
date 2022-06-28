@@ -1,5 +1,5 @@
 <h1 align="center">
-CS-EmbeddedLinux-Book
+EmbeddedLinux-LearnBook
 : 200+本嵌入式/计算机经典书籍分享（持续更新中~）</h1>
 
 
@@ -12,11 +12,6 @@ CS-EmbeddedLinux-Book
 **本仓库持续更新中，后续会陆续分享更多经典电子书，墙裂建议大家 Star 下本仓库，下次找书直接 Ctrl + F**
 
 - **[一键领取所有书籍](#全部汇总)**
-
-
-
-**如果国内访问Github网速较慢，可以访问码云：[https://gitee.com/dongxingbo/CS-EmbeddedLinux-Book](https://gitee.com/dongxingbo/CS-EmbeddedLinux-Book)**
-
 
 
 
@@ -369,21 +364,3 @@ NET企业级应用架构设计(2nd).pdf：[百度云下载链接](https://pan.ba
 ## 其他
 
 DEBUG HACKS中文版  深入调试的技术和工具.pdf：[百度云下载链接](https://pan.baidu.com/s/1LeLaSroB-Ii8pIbShARQvA)  提取码：7xbz
-
-## 全部汇总
-
-目前我把电子书暂时放在公众号了，扫码关注下面公众号，回复「电子书」
-就有我收集的上百本经典嵌入式/计算机书籍，包含各个方向：
-
-![](C:\Users\39580\AppData\Roaming\Typora\typora-user-images\image-20211009222345596.png)
-
-
-![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat/公众号二维码_普通.png)
-
-**微信扫描上方二维码回复「电子书」**
-
-## 免责声明
-
-
-书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1500836631@qq.com
-
